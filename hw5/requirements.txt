@@ -1,2 +1,4 @@
 Flask==1.0.2
+Cerberus
+json2html
 google-cloud-datastore==1.7.3
